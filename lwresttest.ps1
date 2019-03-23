@@ -65,7 +65,7 @@ try
 	$strJson='{"createInfolinkIssueRequest":{"Session":{"SessionID":"' + $($strSessionID) + '","PageName":"Atlas Service Bus Testing","BrandingCode":""},"InfolinkIssue":{"IssueType":{"InfolinkIssueTypeRowId":"NTI1"},"Order":{"Number":"","Accession":""},"Patient":{"ID":"","PatientInsuranceList":[{"InsuranceProvider":{"ID":""}}]},"Status":"N","Distribution":"","Source":"","Recipients":"","Subject":"","Description":"NTI description","FieldName":"","RegEx":"","InformativeMessage":"","GenericFieldValue":"","Test":{"Code":""}},"InfolinkIssueNote":{"NoteBody":""}}}'
 	$strURL="$($strBaseURL)/lwwebapps/wlwservices/wlwatlasservicebus/atlasservicebus.asmx/CreateInfolinkIssue"
 	$objReturn4 = Invoke-RestMethod -UseDefaultCredentials -Uri "$strURL" -Method Post -Body $strJSON -ContentType application/json
-	write-host "waaaaa?"
+	write-host "-"
 	ConvertTo-json $objReturn4
 }
 catch
