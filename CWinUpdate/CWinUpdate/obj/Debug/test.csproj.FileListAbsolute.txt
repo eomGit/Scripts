@@ -1,0 +1,6 @@
+C:\Users\Erick\source\repos\test\test\bin\Debug\test.exe
+C:\Users\Erick\source\repos\test\test\bin\Debug\test.pdb
+C:\Users\Erick\source\repos\test\test\obj\Debug\Interop.WUApiLib.dll
+C:\Users\Erick\source\repos\test\test\obj\Debug\test.csproj.ResolveComReference.cache
+C:\Users\Erick\source\repos\test\test\obj\Debug\test.exe
+C:\Users\Erick\source\repos\test\test\obj\Debug\test.pdb

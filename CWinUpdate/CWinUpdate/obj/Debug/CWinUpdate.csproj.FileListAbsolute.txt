@@ -1,0 +1,14 @@
+C:\Users\Erick\source\repos\test\test\obj\Debug\Interop.WUApiLib.dll
+C:\Users\Erick\source\repos\test\test\obj\Debug\CWinUpdate.csproj.ResolveComReference.cache
+C:\Users\Erick\source\repos\test\test\bin\Debug\CWinUpdate.exe
+C:\Users\Erick\source\repos\test\test\bin\Debug\CWinUpdate.pdb
+C:\Users\Erick\source\repos\test\test\obj\Debug\CWinUpdate.exe
+C:\Users\Erick\source\repos\test\test\obj\Debug\CWinUpdate.pdb
+C:\Users\Erick\source\repos\test\test\obj\Debug\CWinUpdate.csprojAssemblyReference.cache
+C:\Users\Erick\source\repos\CWinUpdate\CWinUpdate\bin\Debug\CWinUpdate.exe
+C:\Users\Erick\source\repos\CWinUpdate\CWinUpdate\bin\Debug\CWinUpdate.pdb
+C:\Users\Erick\source\repos\CWinUpdate\CWinUpdate\obj\Debug\CWinUpdate.csprojAssemblyReference.cache
+C:\Users\Erick\source\repos\CWinUpdate\CWinUpdate\obj\Debug\Interop.WUApiLib.dll
+C:\Users\Erick\source\repos\CWinUpdate\CWinUpdate\obj\Debug\CWinUpdate.csproj.ResolveComReference.cache
+C:\Users\Erick\source\repos\CWinUpdate\CWinUpdate\obj\Debug\CWinUpdate.exe
+C:\Users\Erick\source\repos\CWinUpdate\CWinUpdate\obj\Debug\CWinUpdate.pdb
